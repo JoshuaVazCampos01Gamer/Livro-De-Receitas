@@ -11,3 +11,4 @@
    * Farofa
    * Atum
    * Salmão
+   * Pavê
